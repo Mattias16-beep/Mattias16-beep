@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mattias</h1>
 <h3 align="center">A 19 years old student</h3>
 
-- 🔭 I’m currently student at **computer scientist at HeH high school.**
+- 🔭 I’m currently studying **computer scientist at HeH high school.**
 
 - 🧗‍♂️ My hobbies are **playing video games, going out with friends, doing sports (Basketball 🏀) and finally focusing on myself.**
 
