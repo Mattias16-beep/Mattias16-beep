@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mattias</h1>
 <h3 align="center">A 19 years old student</h3>
 
-- 🔭 I’m currently studying at **computer scientist at HeH**
+- 🔭 I’m currently student at **computer scientist at HeH high school.**
 
 - 🧗‍♂️ My hobbies are **playing video games, going out with friends, doing sports (Basketball 🏀) and finally focusing on myself.**
 
 - 🌱 I’m currently learning **Python, HTML, CSS, JS**
 
-- 👍 I love to **discover and learn new things**
+- 👍 I love to **discover and learn new things.**
 
 - 📫 How to reach me **bruneau.mattias@gmail.com**
 
