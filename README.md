@@ -9,9 +9,9 @@
 
 - 🧗‍♂️ My hobbies are **playing video games, going out with friends, doing sports (Basketball 🏀) and finally focusing on myself.**
 
-- 🌱 I’m currently learning **Python, HTML, CSS, JS**
-
 - 👍 I love to **discover and learn new things.**
+
+- 🌱 I’m currently learning **Python, HTML, CSS, JS**
 
 - 📫 How to reach me **bruneau.mattias@gmail.com**
 
