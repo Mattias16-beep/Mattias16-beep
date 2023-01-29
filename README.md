@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Python, HTML, CSS, JS**
 
-- 🗣️ I'm **French**🇫🇷 native speaker and I can easily talk in **English**
+- 🗣️ I'm **French** native speaker and I can easily talk in **English**
 
 - 📫 How to reach me **bruneau.mattias@gmail.com**
 
