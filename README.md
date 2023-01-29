@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently studying **computer scientist at HeH high school.**
 
+- 🏠 I'm living in **Belgium** :belgium:
+
 - 🆕 I'm presently a newbie in the **computer scientist world.**
 
 - 🧗‍♂️ My hobbies are **playing video games, going out with friends, doing sports (Basketball 🏀) and finally focusing on myself.**
