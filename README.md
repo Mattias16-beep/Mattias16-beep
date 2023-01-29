@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying **computer scientist at HeH high school.**
 
-- 🏠 I'm living in **Belgium** :belgium:
+- 🏠 I'm living in **Belgium** 🇧🇪
 
 - 🆕 I'm presently a newbie in the **computer scientist world.**
 
@@ -12,6 +12,8 @@
 - 👍 I love to **discover and learn new things.**
 
 - 🌱 I’m currently learning **Python, HTML, CSS, JS**
+
+- 🗣️ I'm **French**🇫🇷 native speaker and I can easily talk in **English**
 
 - 📫 How to reach me **bruneau.mattias@gmail.com**
 
