@@ -11,7 +11,7 @@
 
 - 👍 I love to **discover and learn new things.**
 
-- 🌱 I’m currently learning **Python, HTML, CSS, JS**
+- 🌱 I’m currently learning **Python, HTML, CSS, JS, C++**
 
 - 🗣️ I'm **French** native speaker and I can easily talk in **English**
 
