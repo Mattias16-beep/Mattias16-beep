@@ -14,7 +14,8 @@
 
 - 🗣️ I'm **French** native speaker and I can easily talk in **English**
 
-- 📫 How to reach me **bruneau.mattias@gmail.com**
+- 📫 How to reach me ? 
+ **bruneau.mattias@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
