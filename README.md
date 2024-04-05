@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mattias</h1>
-<h3 align="center">A 19 years old student</h3>
 
 - 🔭 I’m currently studying **computer scientist at HeH high school.**
 
