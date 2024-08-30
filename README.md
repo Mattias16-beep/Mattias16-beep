@@ -19,7 +19,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/PAPY2FAST#2222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PAPY2FAST#2222" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mattias-bruneau-469a08227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mattias bruneau" height="30" width="40" /></a>
+<a href="https://discord.gg/abatartufum1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PAPY2FAST#2222" height="30" width="40" /></a>
 </p>
 
