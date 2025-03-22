@@ -4,8 +4,6 @@
 
 - 🏠 I'm living in **Belgium** 🇧🇪
 
-- 🆕 I'm presently a newbie in the **computer scientist world.**
-
 - 🧗‍♂️ My hobbies are **playing video games, going out with friends, doing sports (Basketball 🏀) and finally focusing on myself.**
 
 - 👍 I love to **discover and learn new things.**
